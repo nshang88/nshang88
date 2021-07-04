@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nshang88
 - 👀 I’m interested in research using data science and machine learning
-- 🌱 I’m currently learning data science 
+- 🌱 I’m currently working on data science 
 - 💞️ I’m looking to collaborate on data science
 - 📫 You can reach me at https://www.linkedin.com/in/ning-shangguan/
 
